@@ -29,6 +29,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7aa26477c54e4f8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81ece7fc2d8a118f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Introduction.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,9 +173,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "722408e844b74861",
+  "active": "81ece7fc2d8a118f",
   "lastOpenFiles": [
+    "2.Syntax.md",
     "1.Introduction.md",
+    "Attachment_files/css_basic_syntax.png",
+    "Attachment_files/cascade_output.png",
+    "Attachment_files/casecade.png",
+    "Attachment_files/Untitled-1-removebg-preview.png",
+    "Attachment_files/Untitled-1.png",
+    "Attachment_files/~psFF33.tmp",
     "Attachment_files"
   ]
 }
