@@ -4,46 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ef8fa259ff8ba9fd",
+        "id": "fe272fddd5ba3fa6",
         "type": "tabs",
         "children": [
           {
-            "id": "93d9414c5176c1b4",
+            "id": "73065a5e3323178e",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "722408e844b74861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7aa26477c54e4f8d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81ece7fc2d8a118f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Introduction.md",
-                "mode": "preview",
-                "source": false
-              }
             }
           }
         ]
@@ -112,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.Introduction.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,10 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81ece7fc2d8a118f",
+  "active": "73065a5e3323178e",
   "lastOpenFiles": [
-    "2.Syntax.md",
+    "3.Comments.md",
+    "2.Selector.md",
     "1.Introduction.md",
+    "Attachment_files/general_sibling_selector.png",
+    "Attachment_files/descendant_selector.png",
+    "Attachment_files/adjacent_selector.png",
+    "Attachment_files/child_selector.png",
+    "Attachment_files/child_selector.png",
+    "Untitled",
+    "2.Syntax.md",
     "Attachment_files/css_basic_syntax.png",
     "Attachment_files/cascade_output.png",
     "Attachment_files/casecade.png",
