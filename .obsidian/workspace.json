@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "1796c748aa34b17f",
+        "id": "95505496b390116a",
         "type": "tabs",
-        "dimension": 47.09158415841584,
         "children": [
           {
-            "id": "4532664492c16e74",
+            "id": "4ed99f61defec40a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13.Text.md",
+                "file": "14.Fonts.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "65faf90d999cff05"
           }
         ]
       },
       {
-        "id": "a52306ee389d0c8a",
+        "id": "d6375474505876a2",
         "type": "tabs",
-        "dimension": 52.90841584158416,
         "children": [
           {
-            "id": "9be8e64b198c0bcf",
+            "id": "c42907cb0c54c4a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13.Text.md",
+                "file": "14.Fonts.md",
                 "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "65faf90d999cff05"
           }
         ]
       }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13.Text.md",
+                "file": "14.Fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13.Text.md",
+                "file": "14.Fonts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13.Text.md"
+                "file": "14.Fonts.md"
               }
             }
           }
@@ -166,12 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6baa1ff12de7b5b9",
+  "active": "4ed99f61defec40a",
   "lastOpenFiles": [
+    "13.Text.md",
+    "14.Fonts.md",
+    "Attachment_files/serif-sans.png",
+    "Attachment_files/Pasted image 20231205151346.png",
+    "10.Height_width.md",
     "Attachment_files/pre-line.png",
     "Attachment_files/prefomated.png",
     "Attachment_files/Pasted image 20231203145547.png",
-    "13.Text.md",
     "Attachment_files/Pasted image 20231203145447.png",
     "Attachment_files/nowrap.png",
     "1.Introduction.md",
@@ -182,16 +186,12 @@
     "Attachment_files/outline.png",
     "6.Border.md",
     "Attachment_files/box_model.png",
-    "10.Height_width.md",
     "8.Padding.md",
     "7.Margin.md",
     "5.Background_color.md",
     "999.Other_discrete_css_property.md",
     "3.Comments.md",
     "2.Selector.md",
-    "Attachment_files/general_sibling_selector.png",
-    "Attachment_files/descendant_selector.png",
-    "Attachment_files/adjacent_selector.png",
     "Untitled",
     "2.Syntax.md",
     "Attachment_files/~psFF33.tmp",
