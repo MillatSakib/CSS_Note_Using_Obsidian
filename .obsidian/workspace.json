@@ -6,38 +6,40 @@
       {
         "id": "95505496b390116a",
         "type": "tabs",
+        "dimension": 49.07178217821782,
         "children": [
           {
-            "id": "4ed99f61defec40a",
+            "id": "e7b3b04fa2060ef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14.Fonts.md",
+                "file": "15. Icons.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "65faf90d999cff05"
+            "group": "2a357fa5bec45918"
           }
         ]
       },
       {
-        "id": "d6375474505876a2",
+        "id": "31f3b73a09dc8ddb",
         "type": "tabs",
+        "dimension": 50.92821782178218,
         "children": [
           {
-            "id": "c42907cb0c54c4a9",
+            "id": "a114a719413e142a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14.Fonts.md",
+                "file": "15. Icons.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "65faf90d999cff05"
+            "group": "2a357fa5bec45918"
           }
         ]
       }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14.Fonts.md",
+                "file": "15. Icons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14.Fonts.md",
+                "file": "15. Icons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14.Fonts.md"
+                "file": "15. Icons.md"
               }
             }
           }
@@ -166,10 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ed99f61defec40a",
+  "active": "e7b3b04fa2060ef3",
   "lastOpenFiles": [
-    "13.Text.md",
+    "4.Color.md",
+    "15. Icons.md",
     "14.Fonts.md",
+    "13.Text.md",
     "Attachment_files/serif-sans.png",
     "Attachment_files/Pasted image 20231205151346.png",
     "10.Height_width.md",
@@ -181,7 +185,6 @@
     "1.Introduction.md",
     "11. Box_Model.md",
     "12.Outline.md",
-    "4.Color.md",
     "Attachment_files/outline_offset.png",
     "Attachment_files/outline.png",
     "6.Border.md",
