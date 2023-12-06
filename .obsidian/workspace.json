@@ -13,11 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18.Table.md",
+                "file": "19.Display.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "83344ab3dece62c0"
           }
         ]
       },
@@ -31,11 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18.Table.md",
+                "file": "19.Display.md",
                 "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "83344ab3dece62c0"
           }
         ]
       }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "18.Table.md",
+                "file": "19.Display.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "18.Table.md",
+                "file": "19.Display.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "18.Table.md"
+                "file": "19.Display.md"
               }
             }
           }
@@ -164,19 +166,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50a1959d0c8574b4",
+  "active": "6baa1ff12de7b5b9",
   "lastOpenFiles": [
-    "Attachment_files/table_border_output.png",
-    "18.Table.md",
-    "Untitled.md",
+    "Attachment_files/inline-block.png",
+    "Attachment_files/inline.png",
+    "999.Other_discrete_css_property.md",
+    "19.Display.md",
+    "14.Fonts.md",
     "17. Lists.md",
-    "Attachment_files/table.png",
     "15. Icons.md",
+    "13.Text.md",
+    "12.Outline.md",
+    "2.Selector.md",
+    "1.Introduction.md",
+    "18.Table.md",
+    "Attachment_files/table_border_output.png",
+    "Attachment_files/table.png",
     "16.Links.md",
     "Attachment_files/links.png",
     "4.Color.md",
-    "14.Fonts.md",
-    "13.Text.md",
     "Attachment_files/serif-sans.png",
     "Attachment_files/Pasted image 20231205151346.png",
     "10.Height_width.md",
@@ -184,17 +192,12 @@
     "Attachment_files/prefomated.png",
     "Attachment_files/Pasted image 20231203145547.png",
     "Attachment_files/Pasted image 20231203145447.png",
-    "Attachment_files/nowrap.png",
-    "1.Introduction.md",
     "11. Box_Model.md",
-    "12.Outline.md",
     "6.Border.md",
     "8.Padding.md",
     "7.Margin.md",
     "5.Background_color.md",
-    "999.Other_discrete_css_property.md",
     "3.Comments.md",
-    "2.Selector.md",
     "Untitled",
     "2.Syntax.md",
     "Attachment_files/~psFF33.tmp",
