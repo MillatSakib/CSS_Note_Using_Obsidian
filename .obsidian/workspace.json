@@ -8,36 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46911160c14cb7d1",
+            "id": "50a1959d0c8574b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17. Lists.md",
+                "file": "18.Table.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "077663d1e1fb250d"
+            }
           }
         ]
       },
       {
-        "id": "930b8e07b9bcf3c7",
+        "id": "83c7e36f97a40be2",
         "type": "tabs",
         "children": [
           {
-            "id": "1ac26dd6c355b9d6",
+            "id": "045ece887fdc9836",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17. Lists.md",
+                "file": "18.Table.md",
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "077663d1e1fb250d"
+            }
           }
         ]
       }
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17. Lists.md",
+                "file": "18.Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17. Lists.md",
+                "file": "18.Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17. Lists.md"
+                "file": "18.Table.md"
               }
             }
           }
@@ -166,10 +164,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46911160c14cb7d1",
+  "active": "50a1959d0c8574b4",
   "lastOpenFiles": [
-    "15. Icons.md",
+    "Attachment_files/table_border_output.png",
+    "18.Table.md",
+    "Untitled.md",
     "17. Lists.md",
+    "Attachment_files/table.png",
+    "15. Icons.md",
     "16.Links.md",
     "Attachment_files/links.png",
     "4.Color.md",
@@ -186,8 +188,6 @@
     "1.Introduction.md",
     "11. Box_Model.md",
     "12.Outline.md",
-    "Attachment_files/outline_offset.png",
-    "Attachment_files/outline.png",
     "6.Border.md",
     "8.Padding.md",
     "7.Margin.md",
