@@ -6,53 +6,38 @@
       {
         "id": "95505496b390116a",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "e7b3b04fa2060ef3",
+            "id": "46911160c14cb7d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15. Icons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "252e0423ce78f697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16.Links.md",
+                "file": "17. Lists.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "6f22fd50608f86d4"
+            "group": "077663d1e1fb250d"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "2ea2fc0c8d280043",
+        "id": "930b8e07b9bcf3c7",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "9761f51da95aa936",
+            "id": "1ac26dd6c355b9d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16.Links.md",
+                "file": "17. Lists.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "6f22fd50608f86d4"
+            "group": "077663d1e1fb250d"
           }
         ]
       }
@@ -120,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "16.Links.md",
+                "file": "17. Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "16.Links.md",
+                "file": "17. Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "16.Links.md"
+                "file": "17. Lists.md"
               }
             }
           }
@@ -181,11 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "252e0423ce78f697",
+  "active": "46911160c14cb7d1",
   "lastOpenFiles": [
-    "Attachment_files/links.png",
     "15. Icons.md",
+    "17. Lists.md",
     "16.Links.md",
+    "Attachment_files/links.png",
     "4.Color.md",
     "14.Fonts.md",
     "13.Text.md",
@@ -203,7 +189,6 @@
     "Attachment_files/outline_offset.png",
     "Attachment_files/outline.png",
     "6.Border.md",
-    "Attachment_files/box_model.png",
     "8.Padding.md",
     "7.Margin.md",
     "5.Background_color.md",
