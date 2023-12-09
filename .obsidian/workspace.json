@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "38a4fe844e42f5c1",
+            "id": "764ba256b7b09515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20.Max,Min-width.md",
+                "file": "21. Position.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "96c710dc891e663a"
+            "group": "b203acb9bfc18a15"
           }
         ],
         "currentTab": 1
@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20.Max,Min-width.md",
-                "mode": "source",
+                "file": "21. Position.md",
+                "mode": "preview",
                 "source": false
               }
             },
-            "group": "96c710dc891e663a"
+            "group": "b203acb9bfc18a15"
           }
         ]
       }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20.Max,Min-width.md",
+                "file": "21. Position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20.Max,Min-width.md",
+                "file": "21. Position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20.Max,Min-width.md"
+                "file": "21. Position.md"
               }
             }
           }
@@ -179,12 +179,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38a4fe844e42f5c1",
+  "active": "764ba256b7b09515",
   "lastOpenFiles": [
-    "999.Other_discrete_css_property.md",
-    "20.Max,Min-width.md",
+    "8.Padding.md",
+    "7.Margin.md",
+    "6.Border.md",
+    "5.Background_color.md",
+    "4.Color.md",
+    "3.Comments.md",
     "2.Selector.md",
+    "1.Introduction.md",
+    "21. Position.md",
     "19.Display.md",
+    "Attachment_files/absolute.png",
+    "20.Max,Min-width.md",
+    "Untitled",
+    "999.Other_discrete_css_property.md",
     "Attachment_files/inline-block.png",
     "Attachment_files/inline.png",
     "14.Fonts.md",
@@ -192,26 +202,17 @@
     "15. Icons.md",
     "13.Text.md",
     "12.Outline.md",
-    "1.Introduction.md",
     "18.Table.md",
     "Attachment_files/table_border_output.png",
     "Attachment_files/table.png",
     "16.Links.md",
     "Attachment_files/links.png",
-    "4.Color.md",
     "Attachment_files/serif-sans.png",
     "Attachment_files/Pasted image 20231205151346.png",
     "10.Height_width.md",
     "Attachment_files/pre-line.png",
     "Attachment_files/prefomated.png",
-    "Attachment_files/Pasted image 20231203145547.png",
     "11. Box_Model.md",
-    "6.Border.md",
-    "8.Padding.md",
-    "7.Margin.md",
-    "5.Background_color.md",
-    "3.Comments.md",
-    "Untitled",
     "2.Syntax.md",
     "Attachment_files/~psFF33.tmp",
     "Attachment_files"
