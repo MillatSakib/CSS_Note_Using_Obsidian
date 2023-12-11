@@ -8,27 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fce23950c60a8ed",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "735c789bb6b42c04",
+            "id": "e762ec15729ef6fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26.opacity&transparency.md",
+                "file": "28.math_function.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "0f1c0bbe5fe9c9e0"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "dd7f584ec552bc31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaede5719d376cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "28.math_function.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "0f1c0bbe5fe9c9e0"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26.opacity&transparency.md",
+                "file": "28.math_function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26.opacity&transparency.md",
+                "file": "28.math_function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26.opacity&transparency.md"
+                "file": "28.math_function.md"
               }
             }
           }
@@ -155,11 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6baa1ff12de7b5b9",
+  "active": "e762ec15729ef6fc",
   "lastOpenFiles": [
-    "Untitled.md",
-    "25.align.md",
+    "27.specificity.md",
+    "28.math_function.md",
+    "12.Outline.md",
     "26.opacity&transparency.md",
+    "25.align.md",
     "24.float.md",
     "Attachment_files/clearfix_hack.png",
     "Attachment_files/after_clr.png",
@@ -189,11 +202,9 @@
     "14.Fonts.md",
     "17. Lists.md",
     "15. Icons.md",
-    "12.Outline.md",
     "18.Table.md",
     "16.Links.md",
     "10.Height_width.md",
-    "11. Box_Model.md",
     "Attachment_files/~psFF33.tmp",
     "Attachment_files"
   ]
