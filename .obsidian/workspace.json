@@ -4,42 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "27780af7925456e4",
+        "id": "e61f0b2c096fb7af",
         "type": "tabs",
         "children": [
           {
-            "id": "e6ea2b4d43556bb4",
+            "id": "5fce23950c60a8ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "735c789bb6b42c04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23.overflow.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "2ac09e7386d92d53"
+            }
           }
-        ]
-      },
-      {
-        "id": "51a4c3a987493bce",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "029c639827d011b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "23.overflow.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "2ac09e7386d92d53"
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 200
   },
   "right": {
     "id": "4c27de382e610d57",
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "23.overflow.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "23.overflow.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "23.overflow.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -166,19 +155,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6baa1ff12de7b5b9",
+  "active": "735c789bb6b42c04",
   "lastOpenFiles": [
-    "13.Text.md",
+    "Untitled.md",
+    "25.align.md",
+    "999.Other_discrete_css_property.md",
+    "24.float.md",
+    "Attachment_files/clearfix_hack.png",
+    "Attachment_files/after_clr.png",
+    "Attachment_files/brfore_clr.png",
+    "Attachment_files/img_float_right.png",
+    "21. Position.md",
     "23.overflow.md",
+    "13.Text.md",
     "Attachment_files/overflow_visible.png",
     "Attachment_files/overflow_scroll.png",
-    "999.Other_discrete_css_property.md",
     "Attachment_files/overflow_hidden.png",
     "Attachment_files/Pasted image 20231210122412.png",
     "1.Introduction.md",
     "22.z-index.md",
     "Attachment_files/z-index.png",
-    "21. Position.md",
     "8.Padding.md",
     "7.Margin.md",
     "6.Border.md",
@@ -190,19 +186,14 @@
     "Attachment_files/absolute.png",
     "20.Max,Min-width.md",
     "Untitled",
-    "Attachment_files/inline-block.png",
-    "Attachment_files/inline.png",
     "14.Fonts.md",
     "17. Lists.md",
     "15. Icons.md",
     "12.Outline.md",
     "18.Table.md",
-    "Attachment_files/table_border_output.png",
-    "Attachment_files/table.png",
     "16.Links.md",
     "10.Height_width.md",
     "11. Box_Model.md",
-    "2.Syntax.md",
     "Attachment_files/~psFF33.tmp",
     "Attachment_files"
   ]
