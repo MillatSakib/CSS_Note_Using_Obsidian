@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "28.math_function.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -166,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e762ec15729ef6fc",
+  "active": "6baa1ff12de7b5b9",
   "lastOpenFiles": [
+    "Advance",
     "27.specificity.md",
     "28.math_function.md",
     "12.Outline.md",
@@ -198,13 +199,11 @@
     "19.Display.md",
     "Attachment_files/absolute.png",
     "20.Max,Min-width.md",
-    "Untitled",
     "14.Fonts.md",
     "17. Lists.md",
     "15. Icons.md",
     "18.Table.md",
     "16.Links.md",
-    "10.Height_width.md",
     "Attachment_files/~psFF33.tmp",
     "Attachment_files"
   ]
