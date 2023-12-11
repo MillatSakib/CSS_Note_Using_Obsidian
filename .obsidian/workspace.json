@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "26.opacity&transparency.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "26.opacity&transparency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "26.opacity&transparency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "26.opacity&transparency.md"
               }
             }
           }
@@ -155,11 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "735c789bb6b42c04",
+  "active": "6baa1ff12de7b5b9",
   "lastOpenFiles": [
     "Untitled.md",
     "25.align.md",
-    "999.Other_discrete_css_property.md",
+    "26.opacity&transparency.md",
     "24.float.md",
     "Attachment_files/clearfix_hack.png",
     "Attachment_files/after_clr.png",
