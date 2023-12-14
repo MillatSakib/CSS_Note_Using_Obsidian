@@ -6,25 +6,27 @@
       {
         "id": "e61f0b2c096fb7af",
         "type": "tabs",
+        "dimension": 53.095558546433374,
         "children": [
           {
-            "id": "e762ec15729ef6fc",
+            "id": "54794f988b20224f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "28.math_function.md",
+                "file": "29.flexbox.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "0f1c0bbe5fe9c9e0"
+            "group": "b4739d4954c027cd"
           }
         ]
       },
       {
         "id": "dd7f584ec552bc31",
         "type": "tabs",
+        "dimension": 46.90444145356662,
         "children": [
           {
             "id": "eaede5719d376cfc",
@@ -32,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "28.math_function.md",
+                "file": "29.flexbox.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "0f1c0bbe5fe9c9e0"
+            "group": "b4739d4954c027cd"
           }
         ]
       }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "28.math_function.md",
+                "file": "29.flexbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "28.math_function.md",
+                "file": "29.flexbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "28.math_function.md"
+                "file": "29.flexbox.md"
               }
             }
           }
@@ -166,11 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6baa1ff12de7b5b9",
+  "active": "54794f988b20224f",
   "lastOpenFiles": [
+    "Attachment_files/wrap-reverse.png",
+    "29.flexbox.md",
+    "Attachment_files/column-reverse.png",
+    "Attachment_files/row-reverse.png",
+    "Attachment_files/flex-direction_col.png",
+    "Attachment_files/default_flex_dir.png",
+    "Attachment_files/flex_item.png",
+    "28.math_function.md",
     "Advance",
     "27.specificity.md",
-    "28.math_function.md",
     "12.Outline.md",
     "26.opacity&transparency.md",
     "25.align.md",
@@ -182,13 +191,8 @@
     "21. Position.md",
     "23.overflow.md",
     "13.Text.md",
-    "Attachment_files/overflow_visible.png",
-    "Attachment_files/overflow_scroll.png",
-    "Attachment_files/overflow_hidden.png",
-    "Attachment_files/Pasted image 20231210122412.png",
     "1.Introduction.md",
     "22.z-index.md",
-    "Attachment_files/z-index.png",
     "8.Padding.md",
     "7.Margin.md",
     "6.Border.md",
@@ -197,13 +201,11 @@
     "3.Comments.md",
     "2.Selector.md",
     "19.Display.md",
-    "Attachment_files/absolute.png",
     "20.Max,Min-width.md",
     "14.Fonts.md",
     "17. Lists.md",
     "15. Icons.md",
     "18.Table.md",
-    "16.Links.md",
     "Attachment_files/~psFF33.tmp",
     "Attachment_files"
   ]
