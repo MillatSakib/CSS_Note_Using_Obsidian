@@ -6,7 +6,7 @@
       {
         "id": "e61f0b2c096fb7af",
         "type": "tabs",
-        "dimension": 53.095558546433374,
+        "dimension": 53.09555854643339,
         "children": [
           {
             "id": "54794f988b20224f",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "29.flexbox.md",
+                "file": "30.grid.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
       {
         "id": "dd7f584ec552bc31",
         "type": "tabs",
-        "dimension": 46.90444145356662,
+        "dimension": 46.90444145356661,
         "children": [
           {
             "id": "eaede5719d376cfc",
@@ -34,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "29.flexbox.md",
-                "mode": "preview",
+                "file": "30.grid.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "29.flexbox.md",
+                "file": "30.grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "29.flexbox.md",
+                "file": "30.grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "29.flexbox.md"
+                "file": "30.grid.md"
               }
             }
           }
@@ -170,8 +170,14 @@
   },
   "active": "54794f988b20224f",
   "lastOpenFiles": [
-    "Attachment_files/wrap-reverse.png",
+    "Attachment_files/visual_grid.png",
+    "30.grid.md",
+    "grid-column_/ex.png.md",
+    "grid-column_",
+    "Attachment_files/grid-column_ex.png",
+    "().md",
     "29.flexbox.md",
+    "Attachment_files/wrap-reverse.png",
     "Attachment_files/column-reverse.png",
     "Attachment_files/row-reverse.png",
     "Attachment_files/flex-direction_col.png",
@@ -186,8 +192,6 @@
     "24.float.md",
     "Attachment_files/clearfix_hack.png",
     "Attachment_files/after_clr.png",
-    "Attachment_files/brfore_clr.png",
-    "Attachment_files/img_float_right.png",
     "21. Position.md",
     "23.overflow.md",
     "13.Text.md",
@@ -203,9 +207,6 @@
     "19.Display.md",
     "20.Max,Min-width.md",
     "14.Fonts.md",
-    "17. Lists.md",
-    "15. Icons.md",
-    "18.Table.md",
     "Attachment_files/~psFF33.tmp",
     "Attachment_files"
   ]
