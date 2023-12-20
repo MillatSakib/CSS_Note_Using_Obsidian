@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30.grid.md",
+                "file": "31.gradient.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30.grid.md",
-                "mode": "source",
+                "file": "31.gradient.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30.grid.md",
+                "file": "31.gradient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30.grid.md",
+                "file": "31.gradient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30.grid.md"
+                "file": "31.gradient.md"
               }
             }
           }
@@ -168,10 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54794f988b20224f",
+  "active": "eaede5719d376cfc",
   "lastOpenFiles": [
-    "Attachment_files/visual_grid.png",
+    "Attachment_files/conic_gradient.png",
+    "18.Table.md",
+    "Attachment_files/Pasted image 20231220202944.png",
+    "31.gradient.md",
+    "2.Selector.md",
+    "15. Icons.md",
     "30.grid.md",
+    "5.Background_color.md",
+    "6.Border.md",
+    "Attachment_files/visual_grid.png",
     "grid-column_/ex.png.md",
     "grid-column_",
     "Attachment_files/grid-column_ex.png",
@@ -190,8 +198,6 @@
     "26.opacity&transparency.md",
     "25.align.md",
     "24.float.md",
-    "Attachment_files/clearfix_hack.png",
-    "Attachment_files/after_clr.png",
     "21. Position.md",
     "23.overflow.md",
     "13.Text.md",
@@ -199,14 +205,8 @@
     "22.z-index.md",
     "8.Padding.md",
     "7.Margin.md",
-    "6.Border.md",
-    "5.Background_color.md",
     "4.Color.md",
     "3.Comments.md",
-    "2.Selector.md",
-    "19.Display.md",
-    "20.Max,Min-width.md",
-    "14.Fonts.md",
     "Attachment_files/~psFF33.tmp",
     "Attachment_files"
   ]
