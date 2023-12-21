@@ -4,29 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e61f0b2c096fb7af",
-        "type": "tabs",
-        "dimension": 53.09555854643339,
-        "children": [
-          {
-            "id": "54794f988b20224f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "32.shadows.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "b4739d4954c027cd"
-          }
-        ]
-      },
-      {
         "id": "dd7f584ec552bc31",
         "type": "tabs",
-        "dimension": 46.90444145356661,
         "children": [
           {
             "id": "eaede5719d376cfc",
@@ -34,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "32.shadows.md",
-                "mode": "preview",
+                "file": "33.text-effect.md",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "b4739d4954c027cd"
+            }
           }
         ]
       }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "32.shadows.md",
+                "file": "33.text-effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "32.shadows.md",
+                "file": "33.text-effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "32.shadows.md"
+                "file": "33.text-effect.md"
               }
             }
           }
@@ -168,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54794f988b20224f",
+  "active": "eaede5719d376cfc",
   "lastOpenFiles": [
-    "31.gradient.md",
+    "Attachment_files/text-overflow.png",
+    "33.text-effect.md",
     "32.shadows.md",
+    "31.gradient.md",
     "Attachment_files/conic_gradient.png",
     "18.Table.md",
     "Attachment_files/Pasted image 20231220202944.png",
@@ -191,7 +171,6 @@
     "Attachment_files/row-reverse.png",
     "Attachment_files/flex-direction_col.png",
     "Attachment_files/default_flex_dir.png",
-    "Attachment_files/flex_item.png",
     "28.math_function.md",
     "Advance",
     "27.specificity.md",
@@ -206,8 +185,6 @@
     "22.z-index.md",
     "8.Padding.md",
     "7.Margin.md",
-    "4.Color.md",
-    "3.Comments.md",
     "Attachment_files/~psFF33.tmp",
     "Attachment_files"
   ]
