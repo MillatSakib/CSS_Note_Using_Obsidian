@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "31.gradient.md",
+                "file": "32.shadows.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "31.gradient.md",
+                "file": "32.shadows.md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "31.gradient.md",
+                "file": "32.shadows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "31.gradient.md",
+                "file": "32.shadows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "31.gradient.md"
+                "file": "32.shadows.md"
               }
             }
           }
@@ -168,12 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaede5719d376cfc",
+  "active": "54794f988b20224f",
   "lastOpenFiles": [
+    "31.gradient.md",
+    "32.shadows.md",
     "Attachment_files/conic_gradient.png",
     "18.Table.md",
     "Attachment_files/Pasted image 20231220202944.png",
-    "31.gradient.md",
     "2.Selector.md",
     "15. Icons.md",
     "30.grid.md",
