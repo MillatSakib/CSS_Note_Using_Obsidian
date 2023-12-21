@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "33.text-effect.md",
+                "file": "34.transition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "33.text-effect.md",
+                "file": "34.transition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "33.text-effect.md",
+                "file": "34.transition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "33.text-effect.md"
+                "file": "34.transition.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "eaede5719d376cfc",
   "lastOpenFiles": [
-    "Attachment_files/text-overflow.png",
     "33.text-effect.md",
+    "34.transition.md",
+    "Attachment_files/text-overflow.png",
     "32.shadows.md",
     "31.gradient.md",
     "Attachment_files/conic_gradient.png",
