@@ -4,34 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "42d2eb43f10181c8",
+        "id": "32b1e4a2c4718beb",
         "type": "tabs",
         "children": [
           {
-            "id": "6ee57b610b47fe9e",
+            "id": "fedf3142ae49b30a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "36.animation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "9fb94b7c88626b42",
+            "id": "6dc1615c71b28331",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "36.animation.md",
+                "file": "38.box_sizing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "36.animation.md",
+                "file": "38.box_sizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "36.animation.md",
+                "file": "38.box_sizing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "36.animation.md"
+                "file": "38.box_sizing.md"
               }
             }
           }
@@ -158,15 +155,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ee57b610b47fe9e",
+  "active": "6baa1ff12de7b5b9",
   "lastOpenFiles": [
+    "Advance/Media Query",
+    "grid-column_/ex.png.md",
+    "38.box_sizing.md",
+    "37.variable.md",
+    "36.animation.md",
     "29.flexbox.md",
     "30.grid.md",
     "18.Table.md",
     "21. Position.md",
     "24.float.md",
     "19.Display.md",
-    "36.animation.md",
     "35.transform.md",
     "Attachment_files/skew.png",
     "28.math_function.md",
@@ -185,7 +186,6 @@
     "5.Background_color.md",
     "6.Border.md",
     "Attachment_files/visual_grid.png",
-    "grid-column_/ex.png.md",
     "grid-column_",
     "Attachment_files/grid-column_ex.png",
     "().md",
@@ -195,9 +195,6 @@
     "12.Outline.md",
     "26.opacity&transparency.md",
     "25.align.md",
-    "23.overflow.md",
-    "13.Text.md",
-    "1.Introduction.md",
     "Attachment_files/~psFF33.tmp",
     "Attachment_files"
   ]
