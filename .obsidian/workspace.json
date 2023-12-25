@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fedf3142ae49b30a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "6dc1615c71b28331",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "38.box_sizing.md",
+                "file": "Advance/Sass.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "38.box_sizing.md",
+                "file": "Advance/Sass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "38.box_sizing.md",
+                "file": "Advance/Sass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "38.box_sizing.md"
+                "file": "Advance/Sass.md"
               }
             }
           }
@@ -155,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6baa1ff12de7b5b9",
+  "active": "6dc1615c71b28331",
   "lastOpenFiles": [
+    "Advance/1.Mediaquery.md",
+    "Advance/Sass.md",
+    "38.box_sizing.md",
     "Advance/Media Query",
     "grid-column_/ex.png.md",
-    "38.box_sizing.md",
     "37.variable.md",
     "36.animation.md",
     "29.flexbox.md",
@@ -194,7 +187,6 @@
     "27.specificity.md",
     "12.Outline.md",
     "26.opacity&transparency.md",
-    "25.align.md",
     "Attachment_files/~psFF33.tmp",
     "Attachment_files"
   ]
