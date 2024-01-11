@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advance/Sass.md",
+                "file": "36.animation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17dba0b7c7c83309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "36.animation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advance/Sass.md",
+                "file": "36.animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advance/Sass.md",
+                "file": "36.animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advance/Sass.md"
+                "file": "36.animation.md"
               }
             }
           }
@@ -146,47 +159,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6dc1615c71b28331",
+  "active": "17dba0b7c7c83309",
   "lastOpenFiles": [
-    "Advance/1.Mediaquery.md",
-    "Advance/Sass.md",
-    "38.box_sizing.md",
-    "Advance/Media Query",
-    "grid-column_/ex.png.md",
-    "37.variable.md",
-    "36.animation.md",
-    "29.flexbox.md",
-    "30.grid.md",
-    "18.Table.md",
-    "21. Position.md",
-    "24.float.md",
-    "19.Display.md",
     "35.transform.md",
-    "Attachment_files/skew.png",
+    "34.transition.md",
+    "33.text-effect.md",
+    "32.shadows.md",
+    "31.gradient.md",
+    "30.grid.md",
+    "29.flexbox.md",
     "28.math_function.md",
+    "27.specificity.md",
+    "26.opacity&transparency.md",
+    "25.align.md",
+    "24.float.md",
+    "23.overflow.md",
+    "22.z-index.md",
+    "21. Position.md",
+    "20.Max,Min-width.md",
+    "19.Display.md",
+    "18.Table.md",
+    "17. Lists.md",
+    "16.Links.md",
+    "15. Icons.md",
+    "14.Fonts.md",
+    "13.Text.md",
+    "12.Outline.md",
+    "11. Box_Model.md",
+    "10.Height_width.md",
+    "Attachment_files/row-reverse.png",
+    "Attachment_files/vmin_vmax.png",
+    "Advance/Media Query",
+    "Attachment_files/skew.png",
     "Attachment_files/default_flex_dir.png",
     "Attachment_files/conic_gradient.png",
     "Attachment_files/brfore_clr.png",
     "Attachment_files/column-reverse.png",
-    "34.transition.md",
-    "33.text-effect.md",
     "Attachment_files/text-overflow.png",
-    "32.shadows.md",
-    "31.gradient.md",
     "Attachment_files/Pasted image 20231220202944.png",
-    "2.Selector.md",
-    "15. Icons.md",
-    "5.Background_color.md",
-    "6.Border.md",
     "Attachment_files/visual_grid.png",
     "grid-column_",
-    "Attachment_files/grid-column_ex.png",
-    "().md",
-    "Attachment_files/wrap-reverse.png",
     "Advance",
-    "27.specificity.md",
-    "12.Outline.md",
-    "26.opacity&transparency.md",
     "Attachment_files/~psFF33.tmp",
     "Attachment_files"
   ]
