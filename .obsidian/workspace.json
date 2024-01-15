@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advance/1.Mediaquery.md",
+                "file": "37.variable.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advance/1.Mediaquery.md",
+                "file": "37.variable.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advance/1.Mediaquery.md",
+                "file": "37.variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advance/1.Mediaquery.md",
+                "file": "37.variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advance/1.Mediaquery.md"
+                "file": "37.variable.md"
               }
             }
           }
@@ -170,15 +170,15 @@
   },
   "active": "ad587d774711fe05",
   "lastOpenFiles": [
+    "Advance/1.Mediaquery.md",
+    "35.transform.md",
     "40.Responsive_Design.md",
     "36.animation.md",
     "Attachment_files/media_query_type.jpg",
     "Attachment_files/nowrap.png",
     "Attachment_files/links.png",
-    "Advance/1.Mediaquery.md",
     "Attachment_files/~ps1264.tmp",
     "Attachment_files/media_query_type.png",
-    "35.transform.md",
     "34.transition.md",
     "33.text-effect.md",
     "32.shadows.md",
